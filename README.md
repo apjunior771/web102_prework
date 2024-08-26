@@ -4,7 +4,7 @@ Submitted by: **ALAIN PIEDRA**
 
 **MONSTER GAME FUNDING** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
